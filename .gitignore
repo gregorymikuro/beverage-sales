@@ -6,3 +6,4 @@ data/
 
 # Ignore all .csv files
 *.csv
+myenv/
